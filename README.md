@@ -1,1 +1,1 @@
-Exercise machine-learning with kaggle datasets
+Exercise machine-learning with kaggle&sklearn datasets
